@@ -21,7 +21,8 @@ This project serves as a foundation for a **fully decentralized art licensing ec
 ## **Contract Details**  
 This smart contract is built on the **Aptos Move language** and consists of two core functions:  
 1. **Create License** – Allows an artist to mint an art license with a fixed price.  
-2. **Purchase License** – Enables buyers to purchase a license, transferring funds directly to the artist.  
+2. **Purchase License** – Enables buyers to purchase a license, transferring funds directly to the artist.
+3. **Contract Address** - 0xc1df02b524b855bf61aceb6d3d8debeae3dee7cc4cb57d7dfcc5c3083d2d89d1
 
 This approach ensures a **secure, transparent, and decentralized** method of art licensing, removing the need for traditional third-party platforms.  
 
