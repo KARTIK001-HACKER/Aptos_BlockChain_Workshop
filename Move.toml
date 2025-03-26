@@ -1,0 +1,15 @@
+[package]
+name = "Art-licensing-via-NFTs"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = 'c1df02b524b855bf61aceb6d3d8debeae3dee7cc4cb57d7dfcc5c3083d2d89d1'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
